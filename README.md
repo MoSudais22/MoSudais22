@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosudais22&label=Profile%20views&color=0e75b6&style=flat" alt="mosudais22" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working at ** Software House  **
 
-- 🌱 I’m currently learning **Node js , Express js , MongoDB**
+- 👯 I’m looking to collaborate on ** MERN Stack Projects**
 
-- 👯 I’m looking to collaborate on **React js Projects**
-
-- 💬 Ask me about **React js**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **sudaismuhammad57@gmail.com**
 
